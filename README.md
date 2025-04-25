@@ -1,4 +1,4 @@
-# BookScope
+# Testify
 
 **Testify** is a full-stack MERN application designed to assess your tech knowledge with a dynamic, quiz-based interface. The application allows users to take a randomized 10-question quiz and view their final score. This version introduces automated testing with Cypress, including both component and end-to-end tests, to ensure stability, reliability, and a smooth user experience.
 
