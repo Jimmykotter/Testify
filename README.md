@@ -91,8 +91,8 @@ This project is licensed under the [MIT License](LICENSE).
 - [GitHub](https://github.com/jimmykotter)  
 - [Email](mailto:Jimmykotter@gmail.com)
 
-**Link to Deployed Website**
+**Link to Video & Github Repo**
 
-https://Testify.onrender.com
+https://drive.google.com/file/d/1zfhdgrmGWguXdiIg5kcJzgo0sNkAL_iq/view?usp=sharing
 
 https://github.com/Jimmykotter/testify
