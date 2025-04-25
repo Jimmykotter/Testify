@@ -27,9 +27,6 @@
 - Simulates a full user journey from starting the quiz to viewing the final score
 - Tests user interactions and state changes throughout the quiz flow
 
-## Scripts
-
-``bash
 # Run all Cypress tests
 npx cypress run
 
