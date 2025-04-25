@@ -31,16 +31,7 @@
 
 ``bash
 # Run all Cypress tests
-npm run test
-
-# Open Cypress test runner
-npm run cy:open
-
-# Run only component tests
-npm run cy:component
-
-# Run only end-to-end tests
-npm run cy:e2e
+npx cypress run
 
 ## Technologies Used
 
